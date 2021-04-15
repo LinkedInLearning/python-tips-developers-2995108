@@ -1,0 +1,16 @@
+<html>
+<script>
+obj1 = {};
+obj1.alter = 34
+for (var i in obj1) {
+    console.log(i + " : " + obj1[i] + "\n");
+}
+obj1.name = "Herby";
+console.log(obj1.alter);
+console.log(obj1.name);
+obj1["geschlecht"] = "Mann";
+for (var i in obj1) {
+    console.log(i + " : " + obj1[i] + "\n");
+}
+</script>
+</html>

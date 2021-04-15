@@ -1,0 +1,2 @@
+import mainbereich
+mainbereich.main()
