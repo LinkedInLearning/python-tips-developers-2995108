@@ -1,7 +1,6 @@
 # KURSNAME
 Dies ist das Repository für den LinkedIn Learning-Kurs "Python-Entwicklertipps: Jede Woche neu". Der vollständige Kurs ist bei [LinkedIn Learning] verfügbar.(https://www.linkedin.com/learning/python-entwicklertipps-jede-woche-neu/).
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)
 
 
 [KURSBESCHREIBUNG]
