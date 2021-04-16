@@ -1,5 +1,8 @@
 # Python-Entwicklertipps: Jede Woche neu
-Dies ist das Repository für den LinkedIn Learning-Kurs "Python-Entwicklertipps: Jede Woche neu". Der vollständige Kurs ist bei [LinkedIn Learning](https://linkedin.com/learning) verfügbar unter https://www.linkedin.com/learning/python-entwicklertipps-jede-woche-neu/
+Dies ist das Repository für den LinkedIn Learning-Kurs "Python-Entwicklertipps: Jede Woche neu". Der vollständige Kurs ist bei [LinkedIn Learning](https://www.linkedin.com/learning/python-entwicklertipps-jede-woche-neu/) verfügbar.
+
+## Über diesen Kurs
+Die praktische Programmiersprache Python kommt in den unterschiedlichsten Bereichen zur Anwendung. Egal, ob Sie als Web-, KI-Entwickler:in oder Data Scientist:in unterwegs sind oder Spiele-, Desktop- und eingebettete Anwendungen schreiben: Es tauchen immer wieder Probleme und Aufgabenstellungen auf, die jenseits des Alltäglichen liegen und effizienter Lösungen bedürfen. Mit seiner Tipps- und Tricks-Sammlung möchte Ihnen Ralph Steyer helfen, die Hürden im Programmier:innen-Alltag zu überwinden und wird auch bei erfahrenen Anwendern bestimmt für den ein oder anderen Aha-Effekt sorgen.
 
 ## Anleitung
 Die Quellcodes zu dem Kurs sind nach Kapiteln strukturiert. In jedem der Ordner für ein Kapitel sind die Quellcodedateien zu dem jeweiligen Kapitel des Kurses zu finden.
