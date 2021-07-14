@@ -1,0 +1,5 @@
+print(hash(float('infinity')))
+print(hash(float('inf')))
+print(hash(float('-infinity')))
+print(hash(float('-inf')))
+print(hash(float('nan')))
