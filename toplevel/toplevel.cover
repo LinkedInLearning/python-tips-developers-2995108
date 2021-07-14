@@ -1,0 +1,8 @@
+    1: import mod1
+    1: print("Name Top-Level-Module", __name__)
+    1: mod1.fkt1()
+    1: print("Name importiertes Module", mod1.__name__)
+       
+    1: if __name__ == "__main__":
+    1:     print("Top Level")
+    1: mod1.fkt2()

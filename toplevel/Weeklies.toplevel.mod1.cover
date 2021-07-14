@@ -1,0 +1,7 @@
+    1: def fkt1():
+    1:     print(__name__)
+    1: def fkt2():
+    1:     if __name__ == "__main__":
+               print("Top Level")
+           else:
+    1:         print("Nicht Top Level")
