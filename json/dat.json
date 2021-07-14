@@ -1,0 +1,23 @@
+{
+	"webseiten": {
+		"seite": [
+			{
+				"titel": "RJS EDV-KnowHow",
+				"url": "http://rjs.de",
+				"bemerkung": "Homepage"
+			}, {
+				"titel": "RJS-Blog",
+				"url": "http://blog.rjs.de",
+				"bemerkung": "Blog"
+			}, {
+				"titel": "Fliegerblog",
+				"url": "http://fliegerblog.rjs.de",
+				"bemerkung": "Flugtagebuch"
+			}, {
+				"titel": "Twitter",
+				"url": "http://www.twitter.com/#rjsedv",
+				"bemerkung": "Twitter-Account"
+			}
+		]
+	}
+}
